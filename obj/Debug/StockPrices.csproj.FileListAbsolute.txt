@@ -1,0 +1,12 @@
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\bin\Debug\StockPrices.exe.config
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\bin\Debug\StockPrices.exe
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\bin\Debug\StockPrices.pdb
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Debug\StockPrices.csprojResolveAssemblyReference.cache
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Debug\StockPrices.Properties.Resources.resources
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Debug\StockPrices.csproj.GenerateResource.Cache
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Debug\StockPrices.exe
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Debug\StockPrices.pdb
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Debug\StockPrices.StockGUI.resources
+C:\Users\knolle1\Desktop\StockPrices\StockPrices\bin\Debug\StockPrices.exe.config
+C:\Users\knolle1\Desktop\StockPrices\StockPrices\obj\Debug\StockPrices.exe
+C:\Users\knolle1\Desktop\StockPrices\StockPrices\obj\Debug\StockPrices.pdb

@@ -1,0 +1,8 @@
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\bin\Release\StockPrices.exe.config
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\bin\Release\StockPrices.exe
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\bin\Release\StockPrices.pdb
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Release\StockPrices.StockGUI.resources
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Release\StockPrices.Properties.Resources.resources
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Release\StockPrices.csproj.GenerateResource.Cache
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Release\StockPrices.exe
+\\mspm1bnas04\home50\knolle1\visual studio 2015\Projects\StockPrices\StockPrices\obj\Release\StockPrices.pdb
